@@ -1,0 +1,182 @@
+[
+    {
+        "ad": "Ahmet",
+        "soyad": "Yaman",
+        "iban": "TR23423425432525",
+        "bakiye": 12000
+    },
+    {
+        "ad": "Mehmet",
+        "soyad": "Yaman",
+        "iban": "TR234234253452525",
+        "bakiye": 33000
+    },
+    {
+        "ad": "Pakize",
+        "soyad": "Yaman",
+        "iban": "TR23FDSDF3425525",
+        "bakiye": 2500
+    },
+    {
+        "ad": "Ayşe",
+        "soyad": "Demir",
+        "iban": "TR00000000000001",
+        "bakiye": 12400
+    },
+    {
+        "ad": "Ali",
+        "soyad": "Kaya",
+        "iban": "TR00000000000002",
+        "bakiye": 5800
+    },
+    {
+        "ad": "Fatma",
+        "soyad": "Şahin",
+        "iban": "TR00000000000003",
+        "bakiye": 74500
+    },
+    {
+        "ad": "Hasan",
+        "soyad": "Çelik",
+        "iban": "TR00000000000004",
+        "bakiye": 15800
+    },
+    {
+        "ad": "Zeynep",
+        "soyad": "Aydın",
+        "iban": "TR00000000000005",
+        "bakiye": 21200
+    },
+    {
+        "ad": "Emre",
+        "soyad": "Koç",
+        "iban": "TR00000000000006",
+        "bakiye": 9800
+    },
+    {
+        "ad": "Esra",
+        "soyad": "Öztürk",
+        "iban": "TR00000000000007",
+        "bakiye": 31500
+    },
+    {
+        "ad": "Burak",
+        "soyad": "Yıldız",
+        "iban": "TR00000000000008",
+        "bakiye": 60000
+    },
+    {
+        "ad": "Canan",
+        "soyad": "Doğan",
+        "iban": "TR00000000000009",
+        "bakiye": 4500
+    },
+    {
+        "ad": "Deniz",
+        "soyad": "Güneş",
+        "iban": "TR00000000000010",
+        "bakiye": 17500
+    },
+    {
+        "ad": "Murat",
+        "soyad": "Kurt",
+        "iban": "TR00000000000011",
+        "bakiye": 6700
+    },
+    {
+        "ad": "Elif",
+        "soyad": "Bozkurt",
+        "iban": "TR00000000000012",
+        "bakiye": 24900
+    },
+    {
+        "ad": "Serkan",
+        "soyad": "Çınar",
+        "iban": "TR00000000000013",
+        "bakiye": 7300
+    },
+    {
+        "ad": "Gizem",
+        "soyad": "Türkmen",
+        "iban": "TR00000000000014",
+        "bakiye": 19800
+    },
+    {
+        "ad": "Cem",
+        "soyad": "Uçar",
+        "iban": "TR00000000000015",
+        "bakiye": 51000
+    },
+    {
+        "ad": "Melis",
+        "soyad": "Taş",
+        "iban": "TR00000000000016",
+        "bakiye": 13200
+    },
+    {
+        "ad": "Barış",
+        "soyad": "Sağlam",
+        "iban": "TR00000000000017",
+        "bakiye": 9050
+    },
+    {
+        "ad": "Sevgi",
+        "soyad": "Er",
+        "iban": "TR00000000000018",
+        "bakiye": 44000
+    },
+    {
+        "ad": "Uğur",
+        "soyad": "Deniz",
+        "iban": "TR00000000000019",
+        "bakiye": 8700
+    },
+    {
+        "ad": "Özge",
+        "soyad": "Kurtuluş",
+        "iban": "TR00000000000020",
+        "bakiye": 7650
+    },
+    {
+        "ad": "Bora",
+        "soyad": "Yalçın",
+        "iban": "TR00000000000021",
+        "bakiye": 38000
+    },
+    {
+        "ad": "Selin",
+        "soyad": "Toprak",
+        "iban": "TR00000000000022",
+        "bakiye": 20500
+    },
+    {
+        "ad": "Tolga",
+        "soyad": "Türkmen",
+        "iban": "TR00000000000023",
+        "bakiye": 12250
+    },
+    {
+        "ad": "Duygu",
+        "soyad": "Demirtaş",
+        "iban": "TR00000000000024",
+        "bakiye": 15700
+    },
+    {
+        "ad": "Yusuf",
+        "soyad": "Ergün",
+        "iban": "TR00000000000025",
+        "bakiye": 49300
+    },
+    {
+        "ad": "Hilal",
+        "soyad": "Kaya",
+        "iban": "TR00000000000026",
+        "bakiye": 6900
+    },
+    {
+        "ad": "Kemal",
+        "soyad": "Yavuz",
+        "iban": "TR00000000000027",
+        "bakiye": 22900
+    }
+]
