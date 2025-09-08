@@ -56,3 +56,5 @@ else:
     print("Harf Notunuz: 0")
 print("Ortalamanız:", ortalama)
 
+
+#ANCHOR - değişiklik yaptım
